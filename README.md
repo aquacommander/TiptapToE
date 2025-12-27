@@ -19,8 +19,6 @@ Tip Tap Toe is a console application built for software engineers and developers
 - Gemini analyses key stroke data to identify weakness and generate personalised practice
 - WPM is calculated and benchmarks are provided to the user
 
-![alt text](https://github.com/rohandrummond/tiptaptoe/blob/main/Assets/tip-tap-toe-screenshots.png?raw=true)
-
 ## Setup ⚙️
 
 __Prerequisites__
@@ -42,4 +40,4 @@ This project is open source under the MIT License.
 
 ## Contact 📫
 
-Check out my other projects and contact info on my [GitHub](https://github.com/rohandrummond) profile.
+Check out my other projects and contact info on my [GitHub](https://github.com/aquacommander) profile.
